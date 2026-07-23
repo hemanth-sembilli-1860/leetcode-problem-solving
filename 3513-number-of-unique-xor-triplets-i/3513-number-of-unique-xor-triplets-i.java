@@ -5,6 +5,6 @@ class Solution {
             return n;
         }
         int k = 32-Integer.numberOfLeadingZeros(n);
-        return (int)Math.pow(2,k);
+        return 1<<k;
     }
 }
