@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3536-maximum-product-of-two-digits](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/3536-maximum-product-of-two-digits) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -63,4 +64,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0496-next-greater-element-i) |
+## Sorting
+|  |
+| ------- |
+| [3536-maximum-product-of-two-digits](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/3536-maximum-product-of-two-digits) |
 <!---LeetCode Topics End-->
