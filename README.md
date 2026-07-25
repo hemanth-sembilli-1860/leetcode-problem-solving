@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0004-median-of-two-sorted-arrays) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Binary Tree
 |  |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0004-median-of-two-sorted-arrays) |
 | [0496-next-greater-element-i](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0503-next-greater-element-ii) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -68,4 +70,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3536-maximum-product-of-two-digits](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/3536-maximum-product-of-two-digits) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
