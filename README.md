@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0412-fizz-buzz](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0412-fizz-buzz) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## String Matching
 |  |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0412-fizz-buzz) |
 | [0628-maximum-product-of-three-numbers](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0628-maximum-product-of-three-numbers) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/3536-maximum-product-of-two-digits) |
@@ -99,4 +101,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Simulation
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
