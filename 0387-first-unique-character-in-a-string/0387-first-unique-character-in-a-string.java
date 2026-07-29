@@ -1,13 +1,13 @@
 class Solution {
     public int firstUniqChar(String s) {
-        LinkedHashMap<Character,Integer> hm = new LinkedHashMap<>();
+        int arr[] = new int[26];
         int n = s.length();
         for (int i = 0;i<n;i++){
             char ch = s.charAt(i);
-            hm.put(ch,hm.getOrDefault(ch,0)+1);
+            arr[ch-'a']++;
         }
         for (int i = 0;i<n;i++){
-            if (hm.get(s.charAt(i)) == 1){
+            if (arr[s.charAt(i)-'a'] == 1){
                 return i;
             }
         }
