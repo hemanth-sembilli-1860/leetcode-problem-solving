@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0387-first-unique-character-in-a-string) |
 | [0412-fizz-buzz](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0412-fizz-buzz) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## String Matching
 |  |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0412-fizz-buzz](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0412-fizz-buzz) |
 | [0628-maximum-product-of-three-numbers](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0628-maximum-product-of-three-numbers) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/3536-maximum-product-of-two-digits) |
 ## Bit Manipulation
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1402-reducing-dishes](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/1402-reducing-dishes) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Counting Sort
 |  |
 | ------- |
