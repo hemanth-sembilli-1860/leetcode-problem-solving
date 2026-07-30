@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0004-median-of-two-sorted-arrays) |
 | [0152-maximum-product-subarray](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0152-maximum-product-subarray) |
+| [0238-product-of-array-except-self](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0238-product-of-array-except-self) |
 | [0496-next-greater-element-i](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0503-next-greater-element-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0628-maximum-product-of-three-numbers) |
@@ -131,4 +132,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0387-first-unique-character-in-a-string) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
