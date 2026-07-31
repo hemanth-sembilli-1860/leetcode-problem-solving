@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0226-invert-binary-tree](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0226-invert-binary-tree) |
+| [0404-sum-of-left-leaves](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0404-sum-of-left-leaves) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Binary Search Tree
 |  |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0226-invert-binary-tree](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0226-invert-binary-tree) |
+| [0404-sum-of-left-leaves](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0404-sum-of-left-leaves) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Linked List
 |  |
@@ -150,8 +152,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0226-invert-binary-tree](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0226-invert-binary-tree) |
+| [0404-sum-of-left-leaves](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0404-sum-of-left-leaves) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0226-invert-binary-tree](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0226-invert-binary-tree) |
+| [0404-sum-of-left-leaves](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0404-sum-of-left-leaves) |
 <!---LeetCode Topics End-->
