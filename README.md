@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0004-median-of-two-sorted-arrays) |
 | [0075-sort-colors](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0075-sort-colors) |
+| [0118-pascals-triangle](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0118-pascals-triangle) |
 | [0152-maximum-product-subarray](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0152-maximum-product-subarray) |
 | [0238-product-of-array-except-self](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0238-product-of-array-except-self) |
 | [0496-next-greater-element-i](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0496-next-greater-element-i) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0118-pascals-triangle](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0118-pascals-triangle) |
 | [0152-maximum-product-subarray](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0152-maximum-product-subarray) |
 | [1402-reducing-dishes](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/1402-reducing-dishes) |
 ## Greedy
