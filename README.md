@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0877-stone-game) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3099-harshad-number](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/3099-harshad-number) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/3536-maximum-product-of-two-digits) |
 ## Bit Manipulation
