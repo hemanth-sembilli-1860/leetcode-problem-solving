@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0287-find-the-duplicate-number) |
+| [0347-top-k-frequent-elements](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0503-next-greater-element-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0628-maximum-product-of-three-numbers) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0496-next-greater-element-i) |
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0075-sort-colors) |
 | [0268-missing-number](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0451-sort-characters-by-frequency) |
 | [0628-maximum-product-of-three-numbers](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0628-maximum-product-of-three-numbers) |
 | [0912-sort-an-array](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0912-sort-an-array) |
@@ -132,10 +135,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0004-median-of-two-sorted-arrays) |
+| [0347-top-k-frequent-elements](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0912-sort-an-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0451-sort-characters-by-frequency) |
 | [0912-sort-an-array](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0912-sort-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -155,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0451-sort-characters-by-frequency) |
 | [0912-sort-an-array](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0912-sort-an-array) |
@@ -171,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bucket Sort
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0451-sort-characters-by-frequency) |
 | [0912-sort-an-array](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0912-sort-an-array) |
 ## Radix Sort
@@ -211,4 +218,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0567-permutation-in-string](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0567-permutation-in-string) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
