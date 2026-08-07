@@ -260,4 +260,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0509-fibonacci-number) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
