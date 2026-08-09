@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0075-sort-colors) |
 | [0287-find-the-duplicate-number](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0287-find-the-duplicate-number) |
 | [0567-permutation-in-string](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0567-permutation-in-string) |
+| [0905-sort-array-by-parity](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0905-sort-array-by-parity) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 ## String
 |  |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0877-stone-game) |
+| [0905-sort-array-by-parity](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0912-sort-an-array) |
 | [1250-check-if-it-is-a-good-array](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/1250-check-if-it-is-a-good-array) |
 | [1331-rank-transform-of-an-array](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/1331-rank-transform-of-an-array) |
@@ -145,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0451-sort-characters-by-frequency) |
 | [0628-maximum-product-of-three-numbers](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0628-maximum-product-of-three-numbers) |
+| [0905-sort-array-by-parity](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0912-sort-an-array) |
 | [1331-rank-transform-of-an-array](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/1331-rank-transform-of-an-array) |
 | [1402-reducing-dishes](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/1402-reducing-dishes) |
