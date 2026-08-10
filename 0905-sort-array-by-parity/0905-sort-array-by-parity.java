@@ -2,15 +2,14 @@ class Solution {
     public int[] sortArrayByParity(int[] nums) {
         int n = nums.length;
         int[] res = new int[n];
-        int j = 0;
+        int left = 0;
+        int right = n-1;
         for (int i = 0;i<n;i++){
             if (nums[i]%2 == 0){
-                res[j++] = nums[i];
+                res[left++] = nums[i];
             }
-        }
-        for (int i = 0;i<n;i++){
-            if (nums[i]%2 != 0){
-                res[j++] = nums[i];
+            else {
+                res[right--] = nums[i];
             }
         }
         return res;
