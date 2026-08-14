@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0039-combination-sum) |
 | [0041-first-missing-positive](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0041-first-missing-positive) |
 | [0046-permutations](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0046-permutations) |
+| [0054-spiral-matrix](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0078-subsets) |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0054-spiral-matrix) |
 | [0412-fizz-buzz](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0412-fizz-buzz) |
 ## Merge Sort
 |  |
@@ -342,4 +344,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0677-map-sum-pairs](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0677-map-sum-pairs) |
+## Matrix
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
