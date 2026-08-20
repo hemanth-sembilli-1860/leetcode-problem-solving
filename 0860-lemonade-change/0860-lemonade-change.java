@@ -3,7 +3,6 @@ class Solution {
         int fiveCount = 0;
         int tenCount = 0;
         int n = bills.length;
-        int c = 0;
         for (int i = 0;i<n;i++){
             if (bills[i] == 5){
                 fiveCount++;
