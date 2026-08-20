@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0503-next-greater-element-ii) |
+| [0518-coin-change-ii](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0518-coin-change-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0628-maximum-product-of-three-numbers) |
 | [0648-replace-words](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0648-replace-words) |
@@ -231,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0118-pascals-triangle) |
 | [0152-maximum-product-subarray](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0152-maximum-product-subarray) |
 | [0509-fibonacci-number](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0509-fibonacci-number) |
+| [0518-coin-change-ii](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0518-coin-change-ii) |
 | [0877-stone-game](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0877-stone-game) |
 | [1402-reducing-dishes](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/1402-reducing-dishes) |
 ## Greedy
@@ -380,4 +382,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0054-spiral-matrix) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0518-coin-change-ii](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0518-coin-change-ii) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0518-coin-change-ii](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0518-coin-change-ii) |
 <!---LeetCode Topics End-->
