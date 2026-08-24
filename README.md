@@ -359,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0176-second-highest-salary](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0176-second-highest-salary) |
 | [0178-rank-scores](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0178-rank-scores) |
 | [0183-customers-who-never-order](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0183-customers-who-never-order) |
+| [0595-big-countries](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0595-big-countries) |
 | [1068-product-sales-analysis-i](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/1068-product-sales-analysis-i) |
 | [1757-recyclable-and-low-fat-products](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/1757-recyclable-and-low-fat-products) |
 ## Backtracking
