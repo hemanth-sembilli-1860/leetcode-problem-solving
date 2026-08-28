@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0021-merge-two-sorted-lists) |
+| [0050-powx-n](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0234-palindrome-linked-list) |
 | [0509-fibonacci-number](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0509-fibonacci-number) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0007-reverse-integer) |
+| [0050-powx-n](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0412-fizz-buzz) |
