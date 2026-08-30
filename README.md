@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0078-subsets) |
 | [0118-pascals-triangle](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0118-pascals-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0136-single-number](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0152-maximum-product-subarray) |
 | [0209-minimum-size-subarray-sum](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0238-product-of-array-except-self) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0078-subsets) |
+| [0136-single-number](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0287-find-the-duplicate-number) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/1863-sum-of-all-subset-xor-totals) |
