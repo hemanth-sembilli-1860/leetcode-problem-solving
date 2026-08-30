@@ -1,27 +1,20 @@
 class Solution {
     public int singleNonDuplicate(int[] nums) {
-        int xor = 0;
-        for (int i :nums){
-            xor ^= i;
-        }
-        return xor;
-    }
-    /*public int binarySearch(int nums[],int target){
         int n = nums.length;
         int left = 0;
         int right = n-1;
-        while (left<=right){
+        while (left<right){
             int mid = left+(right-left)/2;
-            if (nums[mid] == target){
-                return mid;
+            if (mid%2 == 1){
+                mid--;
             }
-            else if (nums[mid]>target){
-                right = mid-1;
+            if (nums[mid] == nums[mid+1]){
+               left = mid+2;
             }
-            else {
-                left = mid+1;
+            else{
+                right = mid;
             }
         }
-        return -1;
-    }*/
+        return nums[left];
+    }
 }
