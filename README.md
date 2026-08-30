@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0922-sort-array-by-parity-ii](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0922-sort-array-by-parity-ii) |
 | [0930-binary-subarrays-with-sum](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0930-binary-subarrays-with-sum) |
 | [0953-verifying-an-alien-dictionary](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0953-verifying-an-alien-dictionary) |
+| [1051-height-checker](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/1051-height-checker) |
 | [1248-count-number-of-nice-subarrays](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/1248-count-number-of-nice-subarrays) |
 | [1250-check-if-it-is-a-good-array](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/1250-check-if-it-is-a-good-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -248,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0912-sort-an-array) |
 | [0922-sort-array-by-parity-ii](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0922-sort-array-by-parity-ii) |
+| [1051-height-checker](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/1051-height-checker) |
 | [1331-rank-transform-of-an-array](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/1331-rank-transform-of-an-array) |
 | [1402-reducing-dishes](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/1402-reducing-dishes) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -302,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0451-sort-characters-by-frequency) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0884-uncommon-words-from-two-sentences) |
 | [0912-sort-an-array](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0912-sort-an-array) |
+| [1051-height-checker](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/1051-height-checker) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2206-divide-array-into-equal-pairs](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/2206-divide-array-into-equal-pairs) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -469,4 +472,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0020-valid-parentheses) |
+## Bubble Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/1051-height-checker) |
 <!---LeetCode Topics End-->
