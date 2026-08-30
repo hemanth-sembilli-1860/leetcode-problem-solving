@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3701-compute-alternating-sum](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/3701-compute-alternating-sum) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/3731-find-missing-elements) |
 | [3912-valid-elements-in-an-array](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/3912-valid-elements-in-an-array) |
@@ -312,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0412-fizz-buzz) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/2181-merge-nodes-in-between-zeros) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3701-compute-alternating-sum](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/3701-compute-alternating-sum) |
 ## Merge Sort
 |  |
 | ------- |
