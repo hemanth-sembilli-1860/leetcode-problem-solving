@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2206-divide-array-into-equal-pairs](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/2206-divide-array-into-equal-pairs) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2295-replace-elements-in-an-array](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/2295-replace-elements-in-an-array) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/2956-find-common-elements-between-two-arrays) |
@@ -252,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2206-divide-array-into-equal-pairs](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/2206-divide-array-into-equal-pairs) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2295-replace-elements-in-an-array](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/2295-replace-elements-in-an-array) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/2956-find-common-elements-between-two-arrays) |
@@ -346,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0054-spiral-matrix) |
 | [0412-fizz-buzz](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0412-fizz-buzz) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/2181-merge-nodes-in-between-zeros) |
+| [2295-replace-elements-in-an-array](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/2295-replace-elements-in-an-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3701-compute-alternating-sum](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/3701-compute-alternating-sum) |
 ## Merge Sort
