@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [3941-password-strength](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/3941-password-strength) |
 ## String Matching
 |  |
 | ------- |
@@ -252,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/3731-find-missing-elements) |
+| [3941-password-strength](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/3941-password-strength) |
 ## Sorting
 |  |
 | ------- |
