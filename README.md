@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0583-delete-operation-for-two-strings](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0583-delete-operation-for-two-strings) |
 | [0648-replace-words](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0648-replace-words) |
 | [0677-map-sum-pairs](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0677-map-sum-pairs) |
+| [0720-longest-word-in-dictionary](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0720-longest-word-in-dictionary) |
 | [0804-unique-morse-code-words](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0804-unique-morse-code-words) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0884-uncommon-words-from-two-sentences) |
 | [0890-find-and-replace-pattern](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0890-find-and-replace-pattern) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0643-maximum-average-subarray-i) |
 | [0648-replace-words](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0648-replace-words) |
+| [0720-longest-word-in-dictionary](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0720-longest-word-in-dictionary) |
 | [0804-unique-morse-code-words](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0804-unique-morse-code-words) |
 | [0860-lemonade-change](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0860-lemonade-change) |
 | [0877-stone-game](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0877-stone-game) |
@@ -237,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0567-permutation-in-string) |
 | [0648-replace-words](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0648-replace-words) |
 | [0677-map-sum-pairs](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0677-map-sum-pairs) |
+| [0720-longest-word-in-dictionary](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0720-longest-word-in-dictionary) |
 | [0804-unique-morse-code-words](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0804-unique-morse-code-words) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0884-uncommon-words-from-two-sentences) |
 | [0890-find-and-replace-pattern](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0890-find-and-replace-pattern) |
@@ -272,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0451-sort-characters-by-frequency) |
 | [0628-maximum-product-of-three-numbers](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0628-maximum-product-of-three-numbers) |
+| [0720-longest-word-in-dictionary](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0720-longest-word-in-dictionary) |
 | [0905-sort-array-by-parity](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0912-sort-an-array) |
 | [0922-sort-array-by-parity-ii](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0922-sort-array-by-parity-ii) |
@@ -478,6 +482,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0648-replace-words](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0648-replace-words) |
 | [0677-map-sum-pairs](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0677-map-sum-pairs) |
+| [0720-longest-word-in-dictionary](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0720-longest-word-in-dictionary) |
 ## Matrix
 |  |
 | ------- |
