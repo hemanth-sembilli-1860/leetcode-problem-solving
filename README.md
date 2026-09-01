@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1863-sum-of-all-subset-xor-totals](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2150-find-all-lonely-numbers-in-the-array](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2206-divide-array-into-equal-pairs](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/2206-divide-array-into-equal-pairs) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/1331-rank-transform-of-an-array) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
+| [2150-find-all-lonely-numbers-in-the-array](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2206-divide-array-into-equal-pairs](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/2206-divide-array-into-equal-pairs) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
@@ -327,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0912-sort-an-array) |
 | [1051-height-checker](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/1051-height-checker) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
+| [2150-find-all-lonely-numbers-in-the-array](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2206-divide-array-into-equal-pairs](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/2206-divide-array-into-equal-pairs) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/3517-smallest-palindromic-rearrangement-i) |
