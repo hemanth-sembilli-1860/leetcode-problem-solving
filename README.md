@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0884-uncommon-words-from-two-sentences](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0884-uncommon-words-from-two-sentences) |
 | [0890-find-and-replace-pattern](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0890-find-and-replace-pattern) |
 | [0953-verifying-an-alien-dictionary](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0953-verifying-an-alien-dictionary) |
+| [1529-minimum-suffix-flips](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/1529-minimum-suffix-flips) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -330,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0860-lemonade-change](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0860-lemonade-change) |
 | [1402-reducing-dishes](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/1402-reducing-dishes) |
+| [1529-minimum-suffix-flips](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/1529-minimum-suffix-flips) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
