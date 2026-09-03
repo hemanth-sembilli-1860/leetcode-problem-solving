@@ -8,7 +8,6 @@ class Solution {
                 map.put(ch, index);
                 index++;
             }
-
             if (index == 26) {
                 break;
             }
