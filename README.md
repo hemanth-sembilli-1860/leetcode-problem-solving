@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0567-permutation-in-string) |
 | [0905-sort-array-by-parity](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0922-sort-array-by-parity-ii) |
+| [2540-minimum-common-value](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/2540-minimum-common-value) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 ## String
 |  |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0367-valid-perfect-square) |
 | [0540-single-element-in-a-sorted-array](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0540-single-element-in-a-sorted-array) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0701-insert-into-a-binary-search-tree) |
+| [2540-minimum-common-value](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/2540-minimum-common-value) |
 ## Binary Tree
 |  |
 | ------- |
@@ -162,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2215-find-the-difference-of-two-arrays](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2295-replace-elements-in-an-array](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/2295-replace-elements-in-an-array) |
 | [2527-find-xor-beauty-of-array](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/2527-find-xor-beauty-of-array) |
+| [2540-minimum-common-value](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/2540-minimum-common-value) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/2956-find-common-elements-between-two-arrays) |
@@ -268,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2215-find-the-difference-of-two-arrays](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2295-replace-elements-in-an-array](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/2295-replace-elements-in-an-array) |
 | [2325-decode-the-message](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/2325-decode-the-message) |
+| [2540-minimum-common-value](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/2540-minimum-common-value) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/2956-find-common-elements-between-two-arrays) |
