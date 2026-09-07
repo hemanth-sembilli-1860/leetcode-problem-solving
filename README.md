@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3324-find-the-sequence-of-strings-appeared-on-the-screen](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/3324-find-the-sequence-of-strings-appeared-on-the-screen) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3941-password-strength](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/3941-password-strength) |
 ## String Matching
@@ -405,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2181-merge-nodes-in-between-zeros](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2295-replace-elements-in-an-array](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/2295-replace-elements-in-an-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3324-find-the-sequence-of-strings-appeared-on-the-screen](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/3324-find-the-sequence-of-strings-appeared-on-the-screen) |
 | [3701-compute-alternating-sum](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/3701-compute-alternating-sum) |
 ## Merge Sort
 |  |
