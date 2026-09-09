@@ -233,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3870-count-commas-in-range](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/3870-count-commas-in-range) |
+| [3871-count-commas-in-range-ii](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Bit Manipulation
