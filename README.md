@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0451-sort-characters-by-frequency) |
 | [0500-keyboard-row](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0500-keyboard-row) |
 | [0520-detect-capital](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0520-detect-capital) |
+| [0537-complex-number-multiplication](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0537-complex-number-multiplication) |
 | [0567-permutation-in-string](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0567-permutation-in-string) |
 | [0583-delete-operation-for-two-strings](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0583-delete-operation-for-two-strings) |
 | [0648-replace-words](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0648-replace-words) |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0509-fibonacci-number) |
+| [0537-complex-number-multiplication](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0537-complex-number-multiplication) |
 | [0628-maximum-product-of-three-numbers](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0877-stone-game) |
 | [1248-count-number-of-nice-subarrays](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/1248-count-number-of-nice-subarrays) |
@@ -416,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0054-spiral-matrix) |
 | [0412-fizz-buzz](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0412-fizz-buzz) |
+| [0537-complex-number-multiplication](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0537-complex-number-multiplication) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/2181-merge-nodes-in-between-zeros) |
