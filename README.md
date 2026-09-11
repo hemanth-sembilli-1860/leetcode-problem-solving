@@ -226,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1250-check-if-it-is-a-good-array](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/1250-check-if-it-is-a-good-array) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1492-the-kth-factor-of-n](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/1492-the-kth-factor-of-n) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1903-largest-odd-number-in-string](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/1903-largest-odd-number-in-string) |
@@ -514,6 +515,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1250-check-if-it-is-a-good-array](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/1250-check-if-it-is-a-good-array) |
+| [1492-the-kth-factor-of-n](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/1492-the-kth-factor-of-n) |
 ## Bézout's Lemma
 |  |
 | ------- |
@@ -607,4 +609,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/1051-height-checker) |
+## Prime Factorization
+|  |
+| ------- |
+| [1492-the-kth-factor-of-n](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/1492-the-kth-factor-of-n) |
 <!---LeetCode Topics End-->
