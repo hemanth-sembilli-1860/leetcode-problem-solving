@@ -1,16 +1,14 @@
 class Solution {
     public int kthFactor(int n, int k) {
-        List<Integer> arr = new ArrayList<>();
+        int c = 0;
         for (int i = 1;i<=n;i++){
             if (n%i == 0){
-                arr.add(i);
+                c++;
+                if (c == k){
+                    return i;
+                }
             }
         }
-        if (k<=arr.size()){
-            return arr.get(k-1);
-        }
-        else {
-            return -1;
-        }
+        return -1;
     }
 }
