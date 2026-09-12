@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1529-minimum-suffix-flips](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/1529-minimum-suffix-flips) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [1859-sorting-the-sentence](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/1859-sorting-the-sentence) |
 | [1903-largest-odd-number-in-string](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/1903-largest-odd-number-in-string) |
 | [2325-decode-the-message](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/2325-decode-the-message) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/2486-append-characters-to-string-to-make-subsequence) |
@@ -347,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1402-reducing-dishes](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/1402-reducing-dishes) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/1636-sort-array-by-increasing-frequency) |
+| [1859-sorting-the-sentence](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/1859-sorting-the-sentence) |
 | [2195-append-k-integers-with-minimal-sum](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/2195-append-k-integers-with-minimal-sum) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -610,6 +612,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/1051-height-checker) |
+| [1859-sorting-the-sentence](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/1859-sorting-the-sentence) |
 ## Prime Factorization
 |  |
 | ------- |
