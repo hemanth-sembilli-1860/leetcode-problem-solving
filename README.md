@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1106-parsing-a-boolean-expression](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/1106-parsing-a-boolean-expression) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1529-minimum-suffix-flips](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/1529-minimum-suffix-flips) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1859-sorting-the-sentence](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/1859-sorting-the-sentence) |
 | [1903-largest-odd-number-in-string](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/1903-largest-odd-number-in-string) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1572-matrix-diagonal-sum](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/1572-matrix-diagonal-sum) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/1636-sort-array-by-increasing-frequency) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1800-maximum-ascending-subarray-sum](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/1800-maximum-ascending-subarray-sum) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/1863-sum-of-all-subset-xor-totals) |
