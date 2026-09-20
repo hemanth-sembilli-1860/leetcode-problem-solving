@@ -1,10 +1,9 @@
 class Solution {
     public int countIntersectingIntervals(int[][] intervals) {
-        int n = intervals.length;
         Arrays.sort(intervals,(a,b)->Integer.compare(a[0],b[0]));
         int c = 0;
-        for (int i = 0;i<n;i++){
-            for (int j = i+1;j<n;j++){
+        for (int i = 0;i<intervals.length;i++){
+            for (int j = i+1;j<intervals.length;j++){
                 if (intervals[i][1]>=intervals[j][0]){
                     c++;
                 }
