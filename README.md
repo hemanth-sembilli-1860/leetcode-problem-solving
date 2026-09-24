@@ -211,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3074-apple-redistribution-into-boxes](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/3074-apple-redistribution-into-boxes) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3527-find-the-most-common-response](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/3527-find-the-most-common-response) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3701-compute-alternating-sum](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/3701-compute-alternating-sum) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/3731-find-missing-elements) |
@@ -250,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3345-smallest-divisible-digit-product-i](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/3536-maximum-product-of-two-digits) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3870-count-commas-in-range](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/3870-count-commas-in-range) |
