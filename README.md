@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0540-single-element-in-a-sorted-array) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0713-subarray-product-less-than-k](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0713-subarray-product-less-than-k) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2540-minimum-common-value](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/2540-minimum-common-value) |
 ## Binary Tree
 |  |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1572-matrix-diagonal-sum](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/1572-matrix-diagonal-sum) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/1636-sort-array-by-increasing-frequency) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1800-maximum-ascending-subarray-sum](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/1800-maximum-ascending-subarray-sum) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -321,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/1331-rank-transform-of-an-array) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/1636-sort-array-by-increasing-frequency) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/2150-find-all-lonely-numbers-in-the-array) |
@@ -485,6 +488,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2485-find-the-pivot-integer](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/2485-find-the-pivot-integer) |
 | [3903-smallest-stable-index-i](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/3904-smallest-stable-index-ii) |
@@ -522,6 +526,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0930-binary-subarrays-with-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Quickselect
