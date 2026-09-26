@@ -1,23 +1,35 @@
 class Solution {
     public String evaluate(String s, List<List<String>> knowledge) {
-        HashMap<String,String> map = new HashMap<>();
         int n = s.length();
-        int k = knowledge.size();
-        for (int i = 0;i<k;i++){
-            map.put(knowledge.get(i).get(0),knowledge.get(i).get(1));
+        Map<String,String> map = new HashMap<>();
+        for (List<String> list:knowledge){
+            map.put(list.get(0),list.get(1));
         }
-       StringBuilder sb = new StringBuilder(s);
-
-        while (sb.indexOf("(") != -1) {
-            int start = sb.indexOf("(");
-            int end = sb.indexOf(")", start);
-            String key = sb.substring(start + 1, end);
-            if (map.containsKey(key)) {
-                sb.replace(start, end + 1, map.get(key));
-            } else {
-                sb.replace(start, end + 1, "?");
+        StringBuilder key = new StringBuilder();
+        StringBuilder res = new StringBuilder();
+        boolean addKey = false;
+        for (int i = 0;i<n;i++){
+            char ch = s.charAt(i);
+            if (ch == '('){
+                addKey = true;
+            }
+            else if (ch == ')'){
+                if (map.containsKey(key.toString())){
+                    res.append(map.get(key.toString()));
+                }
+                else {
+                    res.append('?');
+                }
+                addKey = false;
+                key.setLength(0);
+            }
+            else if (addKey){
+                key.append(ch);
+            }
+            else {
+                res.append(ch);
             }
         }
-        return sb.toString();
+        return res.toString();
     }
 }
