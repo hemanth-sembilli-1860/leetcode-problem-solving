@@ -226,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3903-smallest-stable-index-i](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/3904-smallest-stable-index-ii) |
 | [3912-valid-elements-in-an-array](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/3912-valid-elements-in-an-array) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Math
 |  |
 | ------- |
@@ -349,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3718-smallest-missing-multiple-of-k](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/3731-find-missing-elements) |
 | [3941-password-strength](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/3941-password-strength) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Sorting
 |  |
 | ------- |
@@ -383,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/3731-find-missing-elements) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -400,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0692-top-k-frequent-words) |
 | [0912-sort-an-array](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0912-sort-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -451,6 +455,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3527-find-the-most-common-response](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/3527-find-the-most-common-response) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Simulation
 |  |
 | ------- |
@@ -466,6 +471,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3324-find-the-sequence-of-strings-appeared-on-the-screen](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/3324-find-the-sequence-of-strings-appeared-on-the-screen) |
 | [3498-reverse-degree-of-a-string](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/3498-reverse-degree-of-a-string) |
 | [3701-compute-alternating-sum](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/3701-compute-alternating-sum) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Merge Sort
 |  |
 | ------- |
@@ -652,4 +658,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1492-the-kth-factor-of-n](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/1492-the-kth-factor-of-n) |
+## Ordered Set
+|  |
+| ------- |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 <!---LeetCode Topics End-->
