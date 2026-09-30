@@ -5,14 +5,16 @@ class Solution {
         HashMap<Integer,List<Integer>> map = new HashMap<>();
         for (int i = 0;i<n;i++){
             int key = groupSizes[i];
+            List<Integer> inner = new ArrayList<>();
             if (!map.containsKey(key)){
                 map.put(key,new ArrayList<>());
             }
-            List<Integer> inner = map.get(key);
+            inner = map.get(key);
             inner.add(i);
             if (inner.size() == key){
                 list.add(inner);
-                map.put(key,new ArrayList<>());
+                inner = new ArrayList<>();
+                map.put(key,inner);
             }
         }
         return list;
