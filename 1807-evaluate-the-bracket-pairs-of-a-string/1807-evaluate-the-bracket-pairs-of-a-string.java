@@ -1,10 +1,10 @@
 class Solution {
     public String evaluate(String s, List<List<String>> knowledge) {
-        int n = s.length();
-        Map<String,String> map = new HashMap<>();
+        HashMap<String,String> map = new HashMap<>();
         for (List<String> list:knowledge){
             map.put(list.get(0),list.get(1));
         }
+        int n = s.length();
         StringBuilder key = new StringBuilder();
         StringBuilder res = new StringBuilder();
         boolean addKey = false;
