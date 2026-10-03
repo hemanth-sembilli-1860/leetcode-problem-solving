@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0032-longest-valid-parentheses](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0049-group-anagrams) |
 | [0115-distinct-subsequences](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0115-distinct-subsequences) |
 | [0205-isomorphic-strings](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0205-isomorphic-strings) |
@@ -285,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0032-longest-valid-parentheses) |
 | [0155-min-stack](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0496-next-greater-element-i) |
@@ -413,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0032-longest-valid-parentheses) |
 | [0053-maximum-subarray](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0070-climbing-stairs) |
 | [0115-distinct-subsequences](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0115-distinct-subsequences) |
@@ -659,6 +662,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0032-longest-valid-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 ## Bubble Sort
 |  |
