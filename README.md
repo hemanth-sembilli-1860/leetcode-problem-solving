@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0387-first-unique-character-in-a-string) |
 | [0412-fizz-buzz](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0412-fizz-buzz) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0451-sort-characters-by-frequency) |
 | [0500-keyboard-row](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0500-keyboard-row) |
 | [0520-detect-capital](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0520-detect-capital) |
@@ -316,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0387-first-unique-character-in-a-string) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0496-next-greater-element-i) |
@@ -547,6 +549,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0209-minimum-size-subarray-sum) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0713-subarray-product-less-than-k) |
