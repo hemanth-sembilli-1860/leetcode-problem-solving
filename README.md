@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0692-top-k-frequent-words) |
 | [0720-longest-word-in-dictionary](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0720-longest-word-in-dictionary) |
 | [0804-unique-morse-code-words](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0804-unique-morse-code-words) |
+| [0856-score-of-parentheses](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0856-score-of-parentheses) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0884-uncommon-words-from-two-sentences) |
 | [0890-find-and-replace-pattern](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0890-find-and-replace-pattern) |
 | [0953-verifying-an-alien-dictionary](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0953-verifying-an-alien-dictionary) |
@@ -294,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0739-daily-temperatures) |
+| [0856-score-of-parentheses](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0856-score-of-parentheses) |
 | [1106-parsing-a-boolean-expression](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/1106-parsing-a-boolean-expression) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [2390-removing-stars-from-a-string](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/2390-removing-stars-from-a-string) |
@@ -669,6 +671,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0032-longest-valid-parentheses) |
+| [0856-score-of-parentheses](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0856-score-of-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 ## Bubble Sort
 |  |
