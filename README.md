@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3527-find-the-most-common-response](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/3527-find-the-most-common-response) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/3541-find-most-frequent-vowel-and-consonant) |
+| [3894-traffic-signal-color](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/3894-traffic-signal-color) |
 | [3941-password-strength](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/3941-password-strength) |
 ## String Matching
 |  |
@@ -276,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3871-count-commas-in-range-ii](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3894-traffic-signal-color](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/3894-traffic-signal-color) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -496,6 +498,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3324-find-the-sequence-of-strings-appeared-on-the-screen](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/3324-find-the-sequence-of-strings-appeared-on-the-screen) |
 | [3498-reverse-degree-of-a-string](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/3498-reverse-degree-of-a-string) |
 | [3701-compute-alternating-sum](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/3701-compute-alternating-sum) |
+| [3894-traffic-signal-color](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/3894-traffic-signal-color) |
 | [4065-rearrange-array-by-removing-distinct-values](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Merge Sort
 |  |
