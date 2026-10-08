@@ -4,14 +4,16 @@ class Solution {
         int level = 0;
         StringBuilder sb = new StringBuilder();
         for (char c:s.toCharArray()){
-            if (c == ')'){
-                level--;
-            }
-            if (level>0){
+            if (c == '('){
+                if (level>0){
                 sb.append(c);
             }
-            if (c == '('){
-                level++;
+            level++;
+            }else {
+                level--;
+                if (level>0){
+                sb.append(c);
+            }
             }
         }
         return sb.toString();
