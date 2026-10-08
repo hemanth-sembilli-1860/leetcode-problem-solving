@@ -3,8 +3,7 @@ class Solution {
         int n = s.length();
         int level = 0;
         StringBuilder sb = new StringBuilder();
-        for (int i = 0;i<n;i++){
-            char c = s.charAt(i);
+        for (char c:s.toCharArray()){
             if (c == ')'){
                 level--;
             }
