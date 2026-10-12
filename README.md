@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0540-single-element-in-a-sorted-array) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0713-subarray-product-less-than-k](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0713-subarray-product-less-than-k) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2540-minimum-common-value](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/2540-minimum-common-value) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0720-longest-word-in-dictionary](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0720-longest-word-in-dictionary) |
 | [0739-daily-temperatures](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0739-daily-temperatures) |
 | [0804-unique-morse-code-words](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0804-unique-morse-code-words) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0860-lemonade-change](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0860-lemonade-change) |
 | [0877-stone-game](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0877-stone-game) |
 | [0890-find-and-replace-pattern](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0890-find-and-replace-pattern) |
@@ -708,4 +710,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [4065-rearrange-array-by-removing-distinct-values](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/4065-rearrange-array-by-removing-distinct-values) |
+## Ternary Search
+|  |
+| ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0852-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
