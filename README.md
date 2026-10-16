@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0884-uncommon-words-from-two-sentences](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0884-uncommon-words-from-two-sentences) |
 | [0890-find-and-replace-pattern](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0890-find-and-replace-pattern) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [0944-delete-columns-to-make-sorted](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0944-delete-columns-to-make-sorted) |
 | [0953-verifying-an-alien-dictionary](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0953-verifying-an-alien-dictionary) |
 | [1021-remove-outermost-parentheses](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/1021-remove-outermost-parentheses) |
 | [1106-parsing-a-boolean-expression](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/1106-parsing-a-boolean-expression) |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0912-sort-an-array) |
 | [0922-sort-array-by-parity-ii](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0922-sort-array-by-parity-ii) |
 | [0930-binary-subarrays-with-sum](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0930-binary-subarrays-with-sum) |
+| [0944-delete-columns-to-make-sorted](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0944-delete-columns-to-make-sorted) |
 | [0953-verifying-an-alien-dictionary](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0953-verifying-an-alien-dictionary) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1051-height-checker](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/1051-height-checker) |
@@ -733,4 +735,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0944-delete-columns-to-make-sorted](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0944-delete-columns-to-make-sorted) |
 <!---LeetCode Topics End-->
