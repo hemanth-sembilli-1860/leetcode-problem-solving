@@ -1,7 +1,7 @@
 class Solution {
     public String mostCommonWord(String paragraph, String[] banned) {
-        paragraph = paragraph.replaceAll("[^a-zA-Z0-9]"," ").toLowerCase();
-        String st[] = paragraph.trim().split("\\s+");
+        paragraph = paragraph.toLowerCase();
+        String[] st = paragraph.split("[!?',;. ]+");
         int n = st.length;
         int m = banned.length;
         HashSet<String> set = new HashSet<>();
@@ -10,14 +10,16 @@ class Solution {
         }
         String ans = "";
         HashMap<String,Integer> map = new HashMap<>();
-        for (int i = 0;i<n;i++){
-            map.put(st[i],map.getOrDefault(st[i],0)+1);
+        for (String k:st){
+            if (!set.contains(k)){
+                map.put(k,map.getOrDefault(k,0)+1);
+            }
         }
         int max = 0;
-        for (Map.Entry<String,Integer> entry:map.entrySet()){
-            if (!set.contains(entry.getKey()) && entry.getValue()>max){
-                max = entry.getValue();
-                ans = entry.getKey();
+        for (String word : map.keySet()) {
+            if (map.get(word) > max) {
+                max = map.get(word);
+                ans = word;
             }
         }
         return ans;
