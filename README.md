@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0567-permutation-in-string) |
 | [0905-sort-array-by-parity](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0922-sort-array-by-parity-ii) |
+| [0942-di-string-match](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0942-di-string-match) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/2410-maximum-matching-of-players-with-trainers) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0884-uncommon-words-from-two-sentences](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0884-uncommon-words-from-two-sentences) |
 | [0890-find-and-replace-pattern](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0890-find-and-replace-pattern) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [0942-di-string-match](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0942-di-string-match) |
 | [0944-delete-columns-to-make-sorted](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0944-delete-columns-to-make-sorted) |
 | [0953-verifying-an-alien-dictionary](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0953-verifying-an-alien-dictionary) |
 | [1021-remove-outermost-parentheses](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/1021-remove-outermost-parentheses) |
@@ -194,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0912-sort-an-array) |
 | [0922-sort-array-by-parity-ii](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0922-sort-array-by-parity-ii) |
 | [0930-binary-subarrays-with-sum](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0930-binary-subarrays-with-sum) |
+| [0942-di-string-match](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0942-di-string-match) |
 | [0944-delete-columns-to-make-sorted](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0944-delete-columns-to-make-sorted) |
 | [0953-verifying-an-alien-dictionary](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0953-verifying-an-alien-dictionary) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -479,6 +482,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0860-lemonade-change) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [0942-di-string-match](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0942-di-string-match) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1402-reducing-dishes](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/1402-reducing-dishes) |
 | [1529-minimum-suffix-flips](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/1529-minimum-suffix-flips) |
