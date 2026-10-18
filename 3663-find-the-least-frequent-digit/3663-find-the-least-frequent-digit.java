@@ -1,18 +1,19 @@
 class Solution {
     public int getLeastFrequentDigit(int n) {
-        String v = String.valueOf(n);
-        HashMap<Character,Integer> map = new HashMap<>();
-        for (char c:v.toCharArray()){
-            map.put(c,map.getOrDefault(c,0)+1);
+        int freq[] = new int[10];
+        while (n>0){
+            int dig = n%10;
+            freq[dig]++;
+            n = n/10;
         }
-        int min = ' ';
-        int min_count = Integer.MAX_VALUE;
-        for (char c:map.keySet()){
-            if (map.get(c)<min_count){
-                min_count = map.get(c);
-                min = c-'0';
+        int min = 100;
+        int res = 0;
+        for (int i = 0;i<10;i++){
+            if (freq[i]>0 && freq[i]<min){
+                min = freq[i];
+                res = i;
             }
         }
-        return min;
+        return res;
     }
 }
