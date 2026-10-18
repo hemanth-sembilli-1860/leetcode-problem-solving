@@ -245,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3527-find-the-most-common-response](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/3527-find-the-most-common-response) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
+| [3663-find-the-least-frequent-digit](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/3663-find-the-least-frequent-digit) |
 | [3701-compute-alternating-sum](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/3701-compute-alternating-sum) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/3731-find-missing-elements) |
@@ -288,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3536-maximum-product-of-two-digits](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/3536-maximum-product-of-two-digits) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+| [3663-find-the-least-frequent-digit](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/3663-find-the-least-frequent-digit) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3870-count-commas-in-range](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/3871-count-commas-in-range-ii) |
@@ -391,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3527-find-the-most-common-response](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/3527-find-the-most-common-response) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
+| [3663-find-the-least-frequent-digit](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/3663-find-the-least-frequent-digit) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/3731-find-missing-elements) |
 | [3941-password-strength](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/3941-password-strength) |
@@ -509,6 +512,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3527-find-the-most-common-response](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/3527-find-the-most-common-response) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/3541-find-most-frequent-vowel-and-consonant) |
+| [3663-find-the-least-frequent-digit](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/3663-find-the-least-frequent-digit) |
 | [4065-rearrange-array-by-removing-distinct-values](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Simulation
 |  |
