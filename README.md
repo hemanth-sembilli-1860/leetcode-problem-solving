@@ -262,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3903-smallest-stable-index-i](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/3904-smallest-stable-index-ii) |
 | [3912-valid-elements-in-an-array](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/3912-valid-elements-in-an-array) |
+| [4048-count-values-with-equally-spaced-occurrences-i](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/4048-count-values-with-equally-spaced-occurrences-i) |
 | [4065-rearrange-array-by-removing-distinct-values](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Math
 |  |
@@ -409,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3718-smallest-missing-multiple-of-k](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/3731-find-missing-elements) |
 | [3941-password-strength](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/3941-password-strength) |
+| [4048-count-values-with-equally-spaced-occurrences-i](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/4048-count-values-with-equally-spaced-occurrences-i) |
 | [4065-rearrange-array-by-removing-distinct-values](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Sorting
 |  |
