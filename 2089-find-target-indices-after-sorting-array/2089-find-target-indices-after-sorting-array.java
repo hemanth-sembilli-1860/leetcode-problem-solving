@@ -11,8 +11,8 @@ class Solution {
                 c2++;
             }
         }
-        for (int i = c1;i<c1+c2;i++){
-            list.add(i);
+        for (int i = 0;i<c2;i++){
+            list.add(c1+i);
         }
         return list;
     }
