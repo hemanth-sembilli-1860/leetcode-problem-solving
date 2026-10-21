@@ -9,7 +9,7 @@ class Solution {
             }
         }
         for (int i = 0;i<n;i++){
-            if (nums[i]>0){
+            if (nums[i]>0){ 
                 list.add(i+1);
             }
         }
