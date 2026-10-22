@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0367-valid-perfect-square) |
 | [0540-single-element-in-a-sorted-array](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0540-single-element-in-a-sorted-array) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0701-insert-into-a-binary-search-tree) |
+| [0704-binary-search](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0713-subarray-product-less-than-k) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0643-maximum-average-subarray-i) |
 | [0648-replace-words](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0648-replace-words) |
 | [0692-top-k-frequent-words](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0692-top-k-frequent-words) |
+| [0704-binary-search](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0713-subarray-product-less-than-k) |
 | [0720-longest-word-in-dictionary](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0720-longest-word-in-dictionary) |
 | [0739-daily-temperatures](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0739-daily-temperatures) |
