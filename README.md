@@ -285,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1250-check-if-it-is-a-good-array](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/1250-check-if-it-is-a-good-array) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1486-xor-operation-in-an-array](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/1486-xor-operation-in-an-array) |
 | [1492-the-kth-factor-of-n](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/1492-the-kth-factor-of-n) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1551-minimum-operations-to-make-array-equal](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/1551-minimum-operations-to-make-array-equal) |
@@ -317,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0287-find-the-duplicate-number) |
 | [0389-find-the-difference](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0389-find-the-difference) |
 | [0461-hamming-distance](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0461-hamming-distance) |
+| [1486-xor-operation-in-an-array](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/1486-xor-operation-in-an-array) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2206-divide-array-into-equal-pairs](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/2206-divide-array-into-equal-pairs) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/2220-minimum-bit-flips-to-convert-number) |
