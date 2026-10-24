@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2284-sender-with-largest-word-count](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/2284-sender-with-largest-word-count) |
 | [2325-decode-the-message](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/2325-decode-the-message) |
 | [2390-removing-stars-from-a-string](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/2390-removing-stars-from-a-string) |
+| [2409-count-days-spent-together](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/2409-count-days-spent-together) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2785-sort-vowels-in-a-string](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/2785-sort-vowels-in-a-string) |
 | [2942-find-words-containing-character](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/2942-find-words-containing-character) |
@@ -294,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1863-sum-of-all-subset-xor-totals](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1903-largest-odd-number-in-string](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/1903-largest-odd-number-in-string) |
 | [2195-append-k-integers-with-minimal-sum](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/2195-append-k-integers-with-minimal-sum) |
+| [2409-count-days-spent-together](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/2409-count-days-spent-together) |
 | [2485-find-the-pivot-integer](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/2485-find-the-pivot-integer) |
 | [2527-find-xor-beauty-of-array](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/2527-find-xor-beauty-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
