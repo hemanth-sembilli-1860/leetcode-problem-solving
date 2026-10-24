@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1106-parsing-a-boolean-expression](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/1106-parsing-a-boolean-expression) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
+| [1360-number-of-days-between-two-dates](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/1360-number-of-days-between-two-dates) |
 | [1529-minimum-suffix-flips](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/1529-minimum-suffix-flips) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
@@ -287,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1250-check-if-it-is-a-good-array](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/1250-check-if-it-is-a-good-array) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1360-number-of-days-between-two-dates](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/1360-number-of-days-between-two-dates) |
 | [1486-xor-operation-in-an-array](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/1486-xor-operation-in-an-array) |
 | [1492-the-kth-factor-of-n](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/1492-the-kth-factor-of-n) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
