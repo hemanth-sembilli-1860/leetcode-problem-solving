@@ -248,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2908-minimum-sum-of-mountain-triplets-i](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/2908-minimum-sum-of-mountain-triplets-i) |
+| [2909-minimum-sum-of-mountain-triplets-ii](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/2909-minimum-sum-of-mountain-triplets-ii) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2942-find-words-containing-character](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/2942-find-words-containing-character) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/2956-find-common-elements-between-two-arrays) |
@@ -593,6 +594,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2485-find-the-pivot-integer](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/2485-find-the-pivot-integer) |
+| [2909-minimum-sum-of-mountain-triplets-ii](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/2909-minimum-sum-of-mountain-triplets-ii) |
 | [3903-smallest-stable-index-i](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/3904-smallest-stable-index-ii) |
 ## Depth-First Search
