@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2325-decode-the-message](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/2325-decode-the-message) |
 | [2390-removing-stars-from-a-string](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/2390-removing-stars-from-a-string) |
 | [2409-count-days-spent-together](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/2409-count-days-spent-together) |
+| [2483-minimum-penalty-for-a-shop](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2785-sort-vowels-in-a-string](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/2785-sort-vowels-in-a-string) |
 | [2942-find-words-containing-character](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/2942-find-words-containing-character) |
@@ -595,6 +596,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/2302-count-subarrays-with-score-less-than-k) |
+| [2483-minimum-penalty-for-a-shop](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2485-find-the-pivot-integer](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/2485-find-the-pivot-integer) |
 | [2873-maximum-value-of-an-ordered-triplet-i](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/2873-maximum-value-of-an-ordered-triplet-i) |
 | [2874-maximum-value-of-an-ordered-triplet-ii](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/2874-maximum-value-of-an-ordered-triplet-ii) |
