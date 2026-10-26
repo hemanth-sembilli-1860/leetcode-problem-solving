@@ -9,9 +9,7 @@ class Solution {
                 c++;
                 end = Math.min(end,intervals[i][1]);
             }
-            else {
-                end = intervals[i][1];
-            }
+            else end = intervals[i][1];
         }
         return c;
     }
