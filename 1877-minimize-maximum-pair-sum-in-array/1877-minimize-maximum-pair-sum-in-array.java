@@ -7,15 +7,10 @@ class Solution {
         int max = Integer.MIN_VALUE;
         int sum = 0;
         while (left<right){
-            sum = (nums[left]+nums[right]);
-            max = Math.max(max,sum);
+            max = Math.max(max,nums[left]+nums[right]);
             left++;
             right--;
         }
-        /*for (int i = 0;i<n/2;i++){
-            sum = (nums[i]+nums[n-i-1]);
-            max = Math.max(max,sum);
-        }*/
         return max;
     }
 }
