@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0922-sort-array-by-parity-ii) |
 | [0942-di-string-match](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0942-di-string-match) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/2410-maximum-matching-of-players-with-trainers) |
@@ -235,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1800-maximum-ascending-subarray-sum](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/1800-maximum-ascending-subarray-sum) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -463,6 +465,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1859-sorting-the-sentence](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/1859-sorting-the-sentence) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2195-append-k-integers-with-minimal-sum](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/2195-append-k-integers-with-minimal-sum) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/2410-maximum-matching-of-players-with-trainers) |
@@ -526,6 +529,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1402-reducing-dishes](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/1402-reducing-dishes) |
 | [1529-minimum-suffix-flips](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/1529-minimum-suffix-flips) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1903-largest-odd-number-in-string](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/1903-largest-odd-number-in-string) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2195-append-k-integers-with-minimal-sum](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/2195-append-k-integers-with-minimal-sum) |
