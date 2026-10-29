@@ -9,10 +9,12 @@ class Solution {
         }
         for (int i = 0;i<n;i++){
             char c = ransomNote.charAt(i);
-            if (a[c-'a'] ==0){
+            if (a[c-'a'] <=0){
                 return false;
             }
-            a[c-'a']--;
+            else {
+                a[c-'a']--;
+            }
         }
         return true;
     }
