@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0455-assign-cookies) |
 | [0567-permutation-in-string](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0567-permutation-in-string) |
+| [0696-count-binary-substrings](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0696-count-binary-substrings) |
 | [0905-sort-array-by-parity](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0922-sort-array-by-parity-ii) |
 | [0942-di-string-match](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0942-di-string-match) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0648-replace-words](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0648-replace-words) |
 | [0677-map-sum-pairs](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0677-map-sum-pairs) |
 | [0692-top-k-frequent-words](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0692-top-k-frequent-words) |
+| [0696-count-binary-substrings](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0696-count-binary-substrings) |
 | [0709-to-lower-case](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0709-to-lower-case) |
 | [0720-longest-word-in-dictionary](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0720-longest-word-in-dictionary) |
 | [0804-unique-morse-code-words](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0804-unique-morse-code-words) |
