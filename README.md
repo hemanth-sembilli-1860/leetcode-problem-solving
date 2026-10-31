@@ -229,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1331-rank-transform-of-an-array](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/1331-rank-transform-of-an-array) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1402-reducing-dishes](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/1402-reducing-dishes) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -349,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0287-find-the-duplicate-number) |
 | [0389-find-the-difference](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0389-find-the-difference) |
 | [0461-hamming-distance](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0461-hamming-distance) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1486-xor-operation-in-an-array](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/1486-xor-operation-in-an-array) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2206-divide-array-into-equal-pairs](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/2206-divide-array-into-equal-pairs) |
@@ -479,6 +481,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0922-sort-array-by-parity-ii](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0922-sort-array-by-parity-ii) |
 | [1051-height-checker](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/1051-height-checker) |
 | [1331-rank-transform-of-an-array](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/1331-rank-transform-of-an-array) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1402-reducing-dishes](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/1402-reducing-dishes) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/1636-sort-array-by-increasing-frequency) |
@@ -570,6 +573,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0912-sort-an-array) |
 | [1051-height-checker](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/1051-height-checker) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1748-sum-of-unique-elements](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/1748-sum-of-unique-elements) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
