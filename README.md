@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0049-group-anagrams) |
 | [0115-distinct-subsequences](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0115-distinct-subsequences) |
 | [0205-isomorphic-strings](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0345-reverse-vowels-of-a-string) |
@@ -385,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0141-linked-list-cycle) |
 | [0205-isomorphic-strings](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0290-word-pattern) |
 | [0347-top-k-frequent-elements](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0347-top-k-frequent-elements) |
@@ -456,6 +458,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0215-kth-largest-element-in-an-array) |
+| [0242-valid-anagram](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0349-intersection-of-two-arrays) |
