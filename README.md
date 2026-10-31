@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2325-decode-the-message](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/2325-decode-the-message) |
 | [2390-removing-stars-from-a-string](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/2390-removing-stars-from-a-string) |
 | [2409-count-days-spent-together](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/2409-count-days-spent-together) |
+| [2418-sort-the-people](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/2418-sort-the-people) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2785-sort-vowels-in-a-string](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/2785-sort-vowels-in-a-string) |
@@ -258,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2295-replace-elements-in-an-array](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/2295-replace-elements-in-an-array) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/2410-maximum-matching-of-players-with-trainers) |
+| [2418-sort-the-people](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/2418-sort-the-people) |
 | [2527-find-xor-beauty-of-array](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/2527-find-xor-beauty-of-array) |
 | [2540-minimum-common-value](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/2540-minimum-common-value) |
 | [2562-find-the-array-concatenation-value](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/2562-find-the-array-concatenation-value) |
@@ -431,6 +433,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2284-sender-with-largest-word-count](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/2284-sender-with-largest-word-count) |
 | [2295-replace-elements-in-an-array](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/2295-replace-elements-in-an-array) |
 | [2325-decode-the-message](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/2325-decode-the-message) |
+| [2418-sort-the-people](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/2418-sort-the-people) |
 | [2540-minimum-common-value](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/2540-minimum-common-value) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
@@ -484,6 +487,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-find-target-indices-after-sorting-array](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2195-append-k-integers-with-minimal-sum](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/2195-append-k-integers-with-minimal-sum) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/2410-maximum-matching-of-players-with-trainers) |
+| [2418-sort-the-people](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/2418-sort-the-people) |
 | [2785-sort-vowels-in-a-string](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/2785-sort-vowels-in-a-string) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
