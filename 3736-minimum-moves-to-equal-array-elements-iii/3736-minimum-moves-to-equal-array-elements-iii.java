@@ -7,7 +7,9 @@ class Solution {
             max = Math.max(max,i);
         }
         for (int i = 0;i<n;i++){
-            c += (max-nums[i]);
+            if (nums[i]<max){
+                c += (max-nums[i]);
+            }
         }
         return c;
     }
