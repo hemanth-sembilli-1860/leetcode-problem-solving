@@ -194,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0435-non-overlapping-intervals) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0455-assign-cookies](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0500-keyboard-row) |
@@ -303,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0412-fizz-buzz) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0507-perfect-number](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0509-fibonacci-number) |
 | [0537-complex-number-multiplication](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0537-complex-number-multiplication) |
