@@ -1,20 +1,21 @@
 class Solution {
     public int[] diStringMatch(String s) {
-        int low = 0;
         int n = s.length();
-        int high = n;
         int res[] = new int[n+1];
+        int Inc = 0;
+        int Dec = n;
         for (int i = 0;i<n;i++){
-            if (s.charAt(i) == 'I'){
-                res[i] = low;
-                low++;
+            char ch = s.charAt(i);
+            if (ch == 'I'){
+                res[i] = Inc;
+                Inc++;
             }
-            else {
-                res[i] = high;
-                high--;
+            else if (ch == 'D'){
+                res[i] = Dec;
+                Dec--;
             }
         }
-        res[n] = high;
+        res[n] = Inc;
         return res;
     }
 }
