@@ -309,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0070-climbing-stairs) |
+| [0258-add-digits](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0412-fizz-buzz) |
@@ -607,6 +608,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0054-spiral-matrix) |
+| [0258-add-digits](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0412-fizz-buzz) |
 | [0537-complex-number-multiplication](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0537-complex-number-multiplication) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -716,6 +718,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0258-add-digits) |
 | [1250-check-if-it-is-a-good-array](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/1250-check-if-it-is-a-good-array) |
 | [1492-the-kth-factor-of-n](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/1492-the-kth-factor-of-n) |
 ## Bézout's Lemma
