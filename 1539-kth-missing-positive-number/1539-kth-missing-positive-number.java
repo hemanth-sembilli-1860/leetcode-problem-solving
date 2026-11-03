@@ -5,14 +5,10 @@ class Solution {
         for (int i : arr){
             set.add(i);
         }
-        int j = 1;
+        int j = 0;
         for (int i = 1;;i++){
-            if (!set.contains(i)) {
-                if (j == k){
-                    return i;
-                }
-                j++;
-            }
+            if(!set.contains(i)) j++;
+            if(j==k) return i;
         }
     }
 }
