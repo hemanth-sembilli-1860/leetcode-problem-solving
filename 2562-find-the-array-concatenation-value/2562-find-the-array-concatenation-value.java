@@ -1,19 +1,19 @@
 class Solution {
     public long findTheArrayConcVal(int[] nums) {
         int n = nums.length;
+        long sum = 0;
         int i = 0;
         int j = n-1;
-        long res = 0;
         while (i<j){
-            int digits = String.valueOf(nums[j]).length();
-            long concat = (long)(nums[i])*(long)Math.pow(10,digits)+nums[j];
-            res += concat;
+            int len = String.valueOf(nums[j]).length();
+            int s = nums[i]*(int)Math.pow(10,len)+nums[j];
+            sum += s;
             i++;
             j--;
         }
-        if (i == j){
-            res += nums[i];
+         if (i == j){
+            sum += nums[i];
         }
-        return res;
+        return sum;
     }
 }
