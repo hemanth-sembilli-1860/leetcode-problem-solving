@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1832-check-if-the-sentence-is-pangram](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1859-sorting-the-sentence](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/1859-sorting-the-sentence) |
 | [1903-largest-odd-number-in-string](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/1903-largest-odd-number-in-string) |
+| [1980-find-unique-binary-string](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/1980-find-unique-binary-string) |
 | [2000-reverse-prefix-of-word](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/2000-reverse-prefix-of-word) |
 | [2062-count-vowel-substrings-of-a-string](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/2062-count-vowel-substrings-of-a-string) |
 | [2284-sender-with-largest-word-count](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/2284-sender-with-largest-word-count) |
@@ -254,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [1980-find-unique-binary-string](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/1980-find-unique-binary-string) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -443,6 +445,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1748-sum-of-unique-elements](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/1748-sum-of-unique-elements) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [1980-find-unique-binary-string](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/1980-find-unique-binary-string) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2062-count-vowel-substrings-of-a-string](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/2062-count-vowel-substrings-of-a-string) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/2150-find-all-lonely-numbers-in-the-array) |
@@ -765,6 +768,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0077-combinations](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0078-subsets) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [1980-find-unique-binary-string](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/1980-find-unique-binary-string) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Combinatorics
 |  |
