@@ -12,15 +12,18 @@ class Solution {
                 map.put(senders[i],map.get(senders[i])+l);
             }
         }
-        PriorityQueue<Map.Entry<String,Integer>> pq = new PriorityQueue<>((a,b)->{
-            if (!a.getValue().equals(b.getValue())){
-                return Integer.compare(b.getValue(),a.getValue());
+        int max = Integer.MIN_VALUE;
+        for (Map.Entry<String,Integer> entry : map.entrySet()){
+            if (entry.getValue()>max){
+                max = entry.getValue();
             }
-            else {
-                return b.getKey().compareTo(a.getKey());
+        }
+        String res = "";
+        for (String s:map.keySet()){
+            if (map.get(s) == max && s.compareTo(res)>0){
+                res = s;
             }
-        });
-        pq.addAll(map.entrySet());
-        return pq.poll().getKey();
+        }
+        return res;
     }
 }
