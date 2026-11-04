@@ -1,31 +1,26 @@
 class Solution {
     public String largestWordCount(String[] messages, String[] senders) {
-        HashMap<String,Integer> map = new HashMap<>();
         int n = messages.length;
+        HashMap<String,Integer> map = new HashMap<>();
         for (int i = 0;i<n;i++){
             String p[] = messages[i].split(" ");
-            int val = p.length;
-            if (map.containsKey(senders[i])){
-                map.put(senders[i],map.get(senders[i])+val);
+            int l = p.length;
+            if (!map.containsKey(senders[i])){
+                map.put(senders[i],l);
             }
             else {
-                map.put(senders[i],val);
+                map.put(senders[i],map.get(senders[i])+l);
             }
         }
-        int max = Integer.MIN_VALUE;
-        for (Map.Entry<String,Integer> entry : map.entrySet()){
-            if (entry.getValue()>max){
-                max = entry.getValue();
+        PriorityQueue<Map.Entry<String,Integer>> pq = new PriorityQueue<>((a,b)->{
+            if (!a.getValue().equals(b.getValue())){
+                return Integer.compare(b.getValue(),a.getValue());
             }
-        }
-        String ans = "";
-        for (Map.Entry<String,Integer> entry : map.entrySet()){
-            if (max == entry.getValue()){
-                if (entry.getKey().compareTo(ans)>0){
-                    ans = entry.getKey();
-                }
+            else {
+                return b.getKey().compareTo(a.getKey());
             }
-        }
-        return ans;
+        });
+        pq.addAll(map.entrySet());
+        return pq.poll().getKey();
     }
 }
