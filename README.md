@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0696-count-binary-substrings](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0696-count-binary-substrings) |
 | [0709-to-lower-case](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0709-to-lower-case) |
 | [0720-longest-word-in-dictionary](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0720-longest-word-in-dictionary) |
+| [0796-rotate-string](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0796-rotate-string) |
 | [0804-unique-morse-code-words](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0804-unique-morse-code-words) |
 | [0819-most-common-word](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0819-most-common-word) |
 | [0856-score-of-parentheses](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0856-score-of-parentheses) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0796-rotate-string](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0796-rotate-string) |
 ## Tree
 |  |
 | ------- |
