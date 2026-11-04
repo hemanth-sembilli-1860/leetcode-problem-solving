@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1360-number-of-days-between-two-dates](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/1360-number-of-days-between-two-dates) |
 | [1513-number-of-substrings-with-only-1s](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/1513-number-of-substrings-with-only-1s) |
+| [1528-shuffle-string](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/1528-shuffle-string) |
 | [1529-minimum-suffix-flips](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/1529-minimum-suffix-flips) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
@@ -247,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/1480-running-sum-of-1d-array) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
+| [1528-shuffle-string](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/1528-shuffle-string) |
 | [1539-kth-missing-positive-number](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/1539-kth-missing-positive-number) |
 | [1572-matrix-diagonal-sum](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/1572-matrix-diagonal-sum) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/1588-sum-of-all-odd-length-subarrays) |
