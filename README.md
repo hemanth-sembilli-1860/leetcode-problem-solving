@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2000-reverse-prefix-of-word](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/2000-reverse-prefix-of-word) |
+| [2109-adding-spaces-to-a-string](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/2109-adding-spaces-to-a-string) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2200-find-all-k-distant-indices-in-an-array](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/2200-find-all-k-distant-indices-in-an-array) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1980-find-unique-binary-string](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/1980-find-unique-binary-string) |
 | [2000-reverse-prefix-of-word](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/2000-reverse-prefix-of-word) |
 | [2062-count-vowel-substrings-of-a-string](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/2062-count-vowel-substrings-of-a-string) |
+| [2109-adding-spaces-to-a-string](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/2109-adding-spaces-to-a-string) |
 | [2284-sender-with-largest-word-count](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/2284-sender-with-largest-word-count) |
 | [2325-decode-the-message](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/2325-decode-the-message) |
 | [2390-removing-stars-from-a-string](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/2390-removing-stars-from-a-string) |
@@ -269,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2109-adding-spaces-to-a-string](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/2109-adding-spaces-to-a-string) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -626,6 +629,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0412-fizz-buzz) |
 | [0537-complex-number-multiplication](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0537-complex-number-multiplication) |
+| [2109-adding-spaces-to-a-string](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/2109-adding-spaces-to-a-string) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/2181-merge-nodes-in-between-zeros) |
