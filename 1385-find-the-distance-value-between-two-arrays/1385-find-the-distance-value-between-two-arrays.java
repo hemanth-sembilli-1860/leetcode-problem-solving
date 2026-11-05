@@ -3,21 +3,17 @@ class Solution {
         int n = arr1.length;
         int m = arr2.length;
         int c = 0;
-        Arrays.sort(arr2);
+        boolean mark[] = new boolean[n];
         for (int i = 0;i<n;i++){
-            int x = arr1[i];
-            int idx = Arrays.binarySearch(arr2,x-d);
-            boolean found = false;
-            if (idx<0){
-                idx = -idx-1;
+            for (int j = 0;j<m;j++){
+                if (Math.abs(arr1[i]-arr2[j])<=d) {
+                    mark[i] = true;
+                    break;
+                }
             }
-            if (idx<m && Math.abs(x-arr2[idx])<=d){
-                found = true;
-            }
-            if (idx>0 && Math.abs(x-arr2[idx-1])<=d){
-                found = true;
-            }
-            if (!found){
+        }
+        for (int i = 0;i<n;i++){
+            if (!mark[i]){
                 c++;
             }
         }
