@@ -1,44 +1,20 @@
 class Solution {
     public long countSubarrays(int[] nums, long k) {
         int n = nums.length;
-        int i = 0;
-        int j = 0;
-        int l = 0;
-        long c = 0;
+        long cnt = 0;
         long sum = 0;
-        while (i<n){
-             sum += nums[i];
-             l++;
-            while (sum*l>=k){
+        int c = 0;
+        int j = 0;
+        for (int i = 0;i<n;i++){
+            sum += nums[i];
+            c++;
+            while (sum*c>=k){
                 sum -= nums[j];
-                l--;
+                c = c-1;
                 j++;
             }
-            c += i-j+1;
-            i++;
+            cnt += c;
         }
-        return c;
+        return cnt;
     }
 }
-
-
-
-
-
-
-
-/*
-int count = 0;
-        for (int i = 0;i<n;i++){
-            int s = 0;
-            int c = 0;
-            for (int j = i;j<n;j++){
-                s += nums[j];
-                c++;
-                if (s*c<k){
-                count++;
-            }
-            }
-        }
-        return count;
-*/
