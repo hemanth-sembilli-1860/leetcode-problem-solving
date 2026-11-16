@@ -4,12 +4,16 @@ class Solution {
         if (n == 1){
             return nums[0];
         }
-        else {
-            int newNums[] = new int[n-1];
-            for (int i = 0;i<n-1;i++){
-                newNums[i] = (nums[i]+nums[i+1])%10;
+        int size = nums.length;
+        while (size>1){
+            int st = 0;
+            int end = size-1;
+            while (st<end){
+                nums[st] = (nums[st]+nums[st+1])%10;
+                st++;
             }
-            return triangularSum(newNums);
+        size--;
         }
+        return nums[0];
     }
 }
