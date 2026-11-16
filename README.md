@@ -280,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2200-find-all-k-distant-indices-in-an-array](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/2200-find-all-k-distant-indices-in-an-array) |
 | [2206-divide-array-into-equal-pairs](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/2206-divide-array-into-equal-pairs) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2221-find-triangular-sum-of-an-array](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2284-sender-with-largest-word-count](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/2284-sender-with-largest-word-count) |
 | [2295-replace-elements-in-an-array](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/2295-replace-elements-in-an-array) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/2302-count-subarrays-with-score-less-than-k) |
@@ -352,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1863-sum-of-all-subset-xor-totals](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1903-largest-odd-number-in-string](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/1903-largest-odd-number-in-string) |
 | [2195-append-k-integers-with-minimal-sum](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/2195-append-k-integers-with-minimal-sum) |
+| [2221-find-triangular-sum-of-an-array](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2409-count-days-spent-together](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/2409-count-days-spent-together) |
 | [2469-convert-the-temperature](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/2469-convert-the-temperature) |
 | [2485-find-the-pivot-integer](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/2485-find-the-pivot-integer) |
@@ -634,6 +636,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-rearrange-array-elements-by-sign](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/2181-merge-nodes-in-between-zeros) |
+| [2221-find-triangular-sum-of-an-array](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2295-replace-elements-in-an-array](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/2295-replace-elements-in-an-array) |
 | [2390-removing-stars-from-a-string](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/2390-removing-stars-from-a-string) |
@@ -742,6 +745,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/0258-add-digits) |
 | [1250-check-if-it-is-a-good-array](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/1250-check-if-it-is-a-good-array) |
 | [1492-the-kth-factor-of-n](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/1492-the-kth-factor-of-n) |
+| [2221-find-triangular-sum-of-an-array](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/2221-find-triangular-sum-of-an-array) |
 ## Bézout's Lemma
 |  |
 | ------- |
@@ -792,6 +796,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [2221-find-triangular-sum-of-an-array](https://github.com/hemanth-sembilli-1860/leetcode-problem-solving/tree/master/2221-find-triangular-sum-of-an-array) |
 ## Quicksort
 |  |
 | ------- |
